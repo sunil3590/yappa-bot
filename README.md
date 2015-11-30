@@ -1,2 +1,3 @@
 # yappa-bot
-YappaBot for Telegram
+## YappaBot for Telegram
+http://telegram.me/yappabot
